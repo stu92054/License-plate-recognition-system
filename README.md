@@ -1,7 +1,7 @@
 # License Plate Recognition System
 
 ## First time to use
-- 安裝需要的python library
+- Install python library which be used in program
 
 ## How to use
 - Put ```.jpg``` picture in ```car``` floder
